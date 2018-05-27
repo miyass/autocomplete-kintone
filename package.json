@@ -1,0 +1,22 @@
+{
+  "name": "autocomplete-kintone",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "autocomplete package for using kintone",
+  "keywords": [],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "repository": "https://github.com/miyass/autocomplete-kintone",
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  },
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}

@@ -1,0 +1,78 @@
+[
+	{
+		"text": "app.record.create.show",
+		"description": "レコード追加画面　表示"
+	},
+	{
+		"text": "app.record.create.change",
+		"description": "レコード追加画面　フィールド値変更"
+	},
+	{
+		"text": "app.record.create.submit",
+		"description": "レコード追加画面　保存実行前"
+	},
+	{
+		"text": "app.record.create.submit.success",
+		"description": "レコード追加画面　保存成功後"
+	},
+	{
+		"text": "app.record.detail.show",
+		"description": "レコード詳細画面　表示"
+	},
+	{
+		"text": "app.record.detail.delete.submit",
+		"description": "レコード詳細画面　削除前"
+	},
+	{
+		"text": "app.record.detail.process.proceed",
+		"description": "レコード詳細画面　プロセス管理のアクション実行"
+	},
+	{
+		"text": "app.record.edit.show",
+		"description": "レコード編集画面　表示"
+	},
+	{
+		"text": "app.record.edit.change",
+		"description": "レコード編集画面　フィールド値変更"
+	},
+	{
+		"text": "app.record.edit.submit",
+		"description": "レコード編集画面　保存実行前"
+	},
+	{
+		"text": "app.record.edit.submit.success",
+		"description": "レコード編集画面　保存成功後"
+	},
+	{
+		"text": "app.record.index.show",
+		"description": "レコード一覧画面　表示"
+	},
+	{
+		"text": "app.record.index.edit.show",
+		"description": "レコード一覧画面　インライン編集開始"
+	},
+	{
+		"text": "app.record.index.edit.change",
+		"description": "レコード一覧画面　インライン編集のフィールド値変更"
+	},
+	{
+		"text": "app.record.index.edit.submit",
+		"description": "レコード一覧画面　インライン編集の保存実行前"
+	},
+	{
+		"text": "app.record.index.edit.submit.success",
+		"description": "レコード一覧画面　インライン編集の保存成功後"
+	},
+	{
+		"text": "app.record.index.delete.submit",
+		"description": "レコード削除前"
+	},
+	{
+		"text": "app.record.print.show",
+		"description": "レコード印刷画面　表示"
+	},
+	{
+		"text": "app.report.show",
+		"description": "グラフ画面　表示"
+	}
+]

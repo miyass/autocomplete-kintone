@@ -1,0 +1,6 @@
+[
+  {
+    "snippet": "kintone.events.on('${1:text}', function(event) {\n\n\treturn event;\n});",
+    "displaytext": "ke"
+  }
+]
