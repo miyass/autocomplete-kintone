@@ -1,6 +1,8 @@
 [
   {
-    "snippet": "kintone.events.on('${1:text}', function(event) {\n\n\treturn event;\n});",
-    "displaytext": "ke"
+    "kinEveSnippet": "kintone.events.on('${1:text}', function(event) {\n\n\treturn event;\n});",
+    "kinRestSnippet": "kintone.api(kintone.api.url('${1:URI}', true), '', body, function(resp){\n\n}, function(error){\n\n});",
+    "kinEveDisplaytext": "ke",
+    "kinRestDisplaytext": "ka"
   }
 ]
