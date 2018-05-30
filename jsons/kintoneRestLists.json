@@ -1,0 +1,146 @@
+[
+  {
+    "text": "/k/v1/record",
+    "description": "レコードの取得、登録、更新"
+  },
+  {
+    "text": "/k/v1/records",
+    "description": "レコードの一括取得、登録、更新、削除"
+  },
+  {
+    "text": "/k/v1/record/assignees",
+    "description": "レコードの作業者の更新(PUT)"
+  },
+  {
+    "text": "/k/v1/record/status",
+    "description": "レコードのステータスの更新(PUT)"
+  },
+  {
+    "text": "/k/v1/records/status",
+    "description": "複数のレコードのステータスを一括更新(PUT)"
+  },
+  {
+    "text": "/k/v1/record/comments",
+    "description": "レコードのコメントの一括取得(GET)"
+  },
+  {
+    "text": "/k/v1/record/comment",
+    "description": "レコードのコメントの投稿、削除(POST,DELETE)"
+  },
+  {
+    "text": "/k/v1/form",
+    "description": "フォーム設計情報取得(GET)"
+  },
+  {
+    "text": "/k/v1/preview/form",
+    "description": "開発中アプリのフォーム設計情報取得(GET)"
+  },
+  {
+    "text": "k/v1/app/form/fields",
+    "description": "フィールド一覧の取得(GET)"
+  },
+  {
+    "text": "/k/v1/app/form/layout",
+    "description": "フォームのレイアウト情報の取得(GET)"
+  },
+  {
+    "text": "/k/v1/app",
+    "description": "アプリ情報の取得(GET)"
+  },
+  {
+    "text": "/k/v1/apps",
+    "description": "アプリ情報の一括取得(GET)"
+  },
+  {
+    "text": "/k/v1/preview/app",
+    "description": "テスト環境にアプリを作成(POST)"
+  },
+  {
+    "text": "/k/v1/preview/app/deploy",
+    "description": "アプリ設定の運用環境への反映(POST)"
+  },
+  {
+    "text": "/k/v1/preview/app/deploy",
+    "description": "アプリ設定の運用環境への反映状況確認(GET)"
+  },
+  {
+    "text": "/k/v1/app/acl",
+    "description": "アプリのアクセス権の取得、変更(GET,PUT)"
+  },
+  {
+    "text": "/k/v1/app/status",
+    "description": "アプリのプロセス管理の設定の取得(GET)"
+  },
+  {
+    "text": "/k/v1/preview/app/status",
+    "description": "アプリのプロセス管理の設定の変更(PUT)"
+  },
+  {
+    "text": "/k/v1/record/acl",
+    "description": "レコードのアクセス権の取得、変更(GET,PUT)"
+  },
+  {
+    "text": "/k/v1/field/acl",
+    "description": "フィールドのアクセス権の取得、変更(GET,PUT)"
+  },
+  {
+    "text": "/k/v1/app/views",
+    "description": "一覧の設定の取得(GET)"
+  },
+  {
+    "text": "/k/v1/preview/app/views",
+    "description": "一覧の設定の変更(PUT)"
+  },
+  {
+    "text": "/k/v1/app/settings",
+    "description": "一般設定の取得(GET)"
+  },
+  {
+    "text": "/k/v1/preview/app/settings",
+    "description": "一般設定の変更(PUT)"
+  },
+  {
+    "text": "/k/v1/app/customize",
+    "description": "カスタマイズ設定の取得(GET)"
+  },
+  {
+    "text": "/k/v1/preview/app/customize",
+    "description": "カスタマイズ設定の変更(PUT)"
+  },
+  {
+    "text": "/k/v1/space",
+    "description": "スペース情報の取得、削除(GET,DELETE)"
+  },
+  {
+    "text": "/k/v1/space/body",
+    "description": "スペースの本文の更新(PUT)"
+  },
+  {
+    "text": "/k/v1/template/space",
+    "description": "スペースの作成(POST)"
+  },
+  {
+    "text": "/k/v1/space/thread",
+    "description": "スペースのスレッドの更新(PUT)"
+  },
+  {
+    "text": "/k/v1/space/thread/comment",
+    "description": "スペースのスレッド内コメントの投稿(POST)"
+  },
+  {
+    "text": "/k/v1/space/members",
+    "description": "スペースのメンバーの取得、更新(GET,PUT)"
+  },
+  {
+    "text": "/k/v1/guests",
+    "description": "ゲストユーザーの一括追加、削除(POST,DELETE)"
+  },
+  {
+    "text": "/k/v1/apis/record/get",
+    "description": "APIスキーマ情報の取得(GET)"
+  },
+  {
+    "text": "/k/v1/apis",
+    "description": "API一覧の取得(GET)"
+  }
+]
